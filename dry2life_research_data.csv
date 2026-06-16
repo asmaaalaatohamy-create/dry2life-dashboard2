@@ -1,0 +1,15 @@
+source,treatment,variety,salinity_dsm,shoot_length_cm,root_length_cm,shoot_dry_weight_g,root_dry_weight_g,leaf_area_cm2,ec_dsm,grain_yield_tha,straw_yield_tha,n_grain_percent,proline_umol_g,chlorophyll_mg_g,som_percent,available_n_ppm,esp_percent
+Zaki,Control,,0,98.0,16.97,11.81,1.51,237.99,1.58,,,,,,,
+Zaki,AMF_STB,,0,125.7,25.43,24.61,5.41,366.57,1.58,,,,,,,
+Zaki,Control,,5,80.53,14.27,8.38,0.9,196.98,5.0,,,,,,,
+Zaki,AMF_STB,,5,105.97,21.63,15.26,4.64,334.88,2.5,,,,,,,
+Zaki,Control,,10,61.57,12.13,4.5,0.52,130.88,10.0,,,,,,,
+Zaki,AMF_STB,,10,81.43,20.07,9.69,1.42,286.57,3.2,,,,,,,
+El-Akhdar,Control,SC131,3.5,,,,,,,,4.77,10.49,0.97,3.57,2.25,1.04,19.92,14.08
+El-Akhdar,Treated,SC131,3.5,,,,,,,,10.67,21.72,1.36,3.91,2.41,1.25,35.62,10.8
+El-Akhdar,Control,SC131,6.3,,,,,,,,2.93,8.46,0.88,31.88,1.23,0.86,15.55,16.55
+El-Akhdar,Treated,SC131,6.3,,,,,,,,8.86,19.52,1.15,37.37,1.42,1.15,34.7,10.91
+El-Akhdar,Control,SC178,3.5,,,,,,,,2.12,10.11,1.0,2.25,1.36,1.04,19.92,14.08
+El-Akhdar,Treated,SC178,3.5,,,,,,,,11.52,25.34,1.35,2.73,1.42,1.25,35.62,10.8
+El-Akhdar,Control,SC178,6.3,,,,,,,,3.54,8.38,0.89,19.05,0.71,0.86,15.55,16.55
+El-Akhdar,Treated,SC178,6.3,,,,,,,,10.49,18.03,1.18,21.81,0.86,1.15,34.7,10.91
